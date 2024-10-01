@@ -1,40 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "id": "b7d4",
+      "cityName": "Benicassim",
       "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
+      "date": "2024-09-28T18:47:14.468Z",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.02025300564684",
+        "lng": "0.061444160113448554"
       },
-      "id": 17806751
+      "emoji": "🇪🇸"
     },
     {
-      "cityName": "Faro",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "e385",
+      "cityName": "Sarratella",
+      "country": "Spain",
+      "notes": "",
+      "date": "2024-09-28T18:50:20.126Z",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "40.28581147399602",
+        "lng": "0.02433521816646245"
       },
-      "id": 98443197
+      "emoji": "🇪🇸"
+    },
+    {
+      "id": "7f3e",
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "notes": "",
+      "date": "2024-09-28T18:53:50.088Z",
+      "position": {
+        "lat": "40.15893480687665",
+        "lng": "-0.06191312476975686"
+      },
+      "emoji": "🇪🇸"
+    },
+    {
+      "id": "6ec9",
+      "cityName": "Albocasser",
+      "country": "Spain",
+      "notes": "",
+      "date": "2024-09-28T19:03:17.664Z",
+      "position": {
+        "lat": "40.3915347826073",
+        "lng": "0.012195039091436044"
+      },
+      "emoji": "🇪🇸"
+    },
+    {
+      "id": "7590",
+      "cityName": "Rosell",
+      "country": "Spain",
+      "notes": "",
+      "date": "2024-09-28T19:07:23.986Z",
+      "position": {
+        "lat": "40.613952441166596",
+        "lng": "0.17255331556681242"
+      },
+      "emoji": "🇪🇸"
     }
   ]
 }
