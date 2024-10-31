@@ -11,7 +11,6 @@ function CityProvider({children}){
 const URL_Base = 'http://localhost:9000'
 
 function reducer(state,action){
-  console.log(action);
   switch(action.type){
     case 'loading':return {
       ...state,
@@ -81,7 +80,6 @@ useEffect(function(){
     }
   }
   fectchCities()
-
 },[])
 
 const getCity = useCallback(async function getCity(id){

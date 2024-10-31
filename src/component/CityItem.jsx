@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useCities } from '../contexts/CitiesContext';
 
 export default function CityItem({city}){
-    const formatDate = (date) =>
+  const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
     day: "numeric",
     month: "long",
@@ -16,11 +16,10 @@ export default function CityItem({city}){
 
 function handleDelet(e){
   e.preventDefault()
-  console.log('TEST');
   deleteCity(id)
 }
 
-    return <li >
+    return <li>
         <Link className={`${styles.cityItem} ${currentCity.id ===id ? styles['cityItem--active'] : ''}`}
          to = {`${id}?lat=${position.lat}&lng=${position.lng}`}>
         <span className={styles.emoji}>{emoji}</span>

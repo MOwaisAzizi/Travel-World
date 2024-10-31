@@ -5,7 +5,6 @@ import { useCities } from "../contexts/CitiesContext";
 import Spinner from "./Spinner";
 import BackButton from "./BackButton";
 
-
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
     day: "numeric",
@@ -15,6 +14,7 @@ const formatDate = (date) =>
   }).format(new Date(date));
 
 function City() {
+
   // TEMP DATA
   // const currentCity = {
   //   cityName: "Lisbon",
@@ -36,7 +36,6 @@ function City() {
   },[id,getCity])
 
  if(isLoading) return <Spinner/>
-
 
   return (
     <div className={styles.city}>

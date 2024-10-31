@@ -20,9 +20,7 @@ export default function CountryList(){
         <ul className={styles.countryList}>
           {
             country.map(country=>{
-         
               return <CountryItem country={country}/>
-              
             })
           }
         </ul>

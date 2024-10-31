@@ -1,62 +1,14 @@
 {
   "cities": [
     {
-      "id": "b7d4",
-      "cityName": "Benicassim",
+      "id": "3b35",
+      "cityName": "Matet",
       "country": "Spain",
       "notes": "",
-      "date": "2024-09-28T18:47:14.468Z",
+      "date": "2024-10-03T12:20:08.153Z",
       "position": {
-        "lat": "40.02025300564684",
-        "lng": "0.061444160113448554"
-      },
-      "emoji": "🇪🇸"
-    },
-    {
-      "id": "e385",
-      "cityName": "Sarratella",
-      "country": "Spain",
-      "notes": "",
-      "date": "2024-09-28T18:50:20.126Z",
-      "position": {
-        "lat": "40.28581147399602",
-        "lng": "0.02433521816646245"
-      },
-      "emoji": "🇪🇸"
-    },
-    {
-      "id": "7f3e",
-      "cityName": "Vilafames",
-      "country": "Spain",
-      "notes": "",
-      "date": "2024-09-28T18:53:50.088Z",
-      "position": {
-        "lat": "40.15893480687665",
-        "lng": "-0.06191312476975686"
-      },
-      "emoji": "🇪🇸"
-    },
-    {
-      "id": "6ec9",
-      "cityName": "Albocasser",
-      "country": "Spain",
-      "notes": "",
-      "date": "2024-09-28T19:03:17.664Z",
-      "position": {
-        "lat": "40.3915347826073",
-        "lng": "0.012195039091436044"
-      },
-      "emoji": "🇪🇸"
-    },
-    {
-      "id": "7590",
-      "cityName": "Rosell",
-      "country": "Spain",
-      "notes": "",
-      "date": "2024-09-28T19:07:23.986Z",
-      "position": {
-        "lat": "40.613952441166596",
-        "lng": "0.17255331556681242"
+        "lat": "39.94343646197423",
+        "lng": "-0.46829223632812506"
       },
       "emoji": "🇪🇸"
     }

@@ -32,7 +32,7 @@ function App() {
             <Route path="Pricing" element={<Pricing />} />
             <Route path="Login" element={<Login />} />
             <Route path="AppLoyout" element={
-              //this is for not allow the use to go the applayout using searchBar
+              //this is for not allow the user to go the applayout using searchBar
              <ProtectedRoute> <AppLoyout/> </ProtectedRoute>    }>
               {/* <Route index  element={<CityList cities = {cities} isLoading = {isLoading}/>}/> */}
               <Route index element={<Navigate to="cities" replace />} />{" "}

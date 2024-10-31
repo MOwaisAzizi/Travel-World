@@ -9,9 +9,7 @@ function User() {
 
   function handleClick() {
     logout()
-    navigate('/')
-    console.log('click');
-    
+    navigate('/') 
   }
 
   return (
